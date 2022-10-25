@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".To">
+
+    <ImageView
+        android:layout_width="399dp"
+        android:layout_height="278dp"
+        android:layout_gravity="center"
+        android:src="@drawable/tbsm" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="56dp"
+        android:gravity="center"
+        android:text="APA YANG DIPELAJARI DI TEKNIK OTOMOTIF"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        android:gravity="left|center"
+        android:textSize="15dp"
+        android:text="-Gambar Tehnik Otomotif"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="15dp"
+        android:text="-Teknologi Dasar Otomotif"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="left|center"
+        android:textSize="15dp"
+        android:text="-Pekerjaan Dasar Otomotif"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="left|center"
+        android:textSize="15dp"
+        android:textStyle="bold"
+        android:text="-Pemeliharaan Mesin"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="left|center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="-Pemeliharaan Sasis" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="left|center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="-Pemeliharaan Kelistrikan"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="left|center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="-Pengelolaan Bengkel"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="33dp"
+        android:gravity="left|center"
+        android:textStyle="bold"
+        android:textSize="15dp"
+        android:text="-Produk Kreatif dan Kewirausahaan"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+
+</LinearLayout>

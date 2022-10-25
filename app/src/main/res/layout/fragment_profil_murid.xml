@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    tools:context=".ProfilMurid">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="63dp"
+        android:gravity="center"
+        android:text="PROFILE BOWO SAKTI W"
+        android:textColor="#21533D"
+        android:textSize="25dp"
+        android:textStyle="normal|bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="          NAMA         : Bowo Sakti W"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="          LAHIR          : DEMAK, 03-08-2005"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="          ALAMAT     : JLN KALISARI"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           ASAL SEKOLAH : SMKN 1SAYUNG"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           KELAS        :XI PPLG2"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           JURUSAN  : PPLG(Pengembangan Perangkat Lunak dan Gim)"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="32dp"
+        android:gravity="left|center"
+        android:textSize="13dp"
+        android:text="           STATUS      :MURID SMKN1SAYUNG"
+        android:textStyle="bold"/>
+
+</LinearLayout>
